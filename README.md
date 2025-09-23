@@ -20,18 +20,18 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 Outcome of my project   [
-   sketch / Final image here >
+   sketch / Final image here 
 
 ## Reflection
 
 1. Describe your project.
 
-   -My project was an attempt at creating a checkered pink and white flag. 
+   -My project was an attempt at creating a checkered pink and white flag.
 
 2. What are two things about your project that you are proud of?
 
-   - One thing I'm proud of is for the most part being able to code the FlagPainter.Java. I think there's more room for improvement because I struggled trying to correct the code. 
+   - Two things that I am proud of is crrating the framPainter.java and CheckerPainter.java. I'm also proud of improving my code and fixing the pattern. 
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - If I had the opportunity to change something about my project I would resolve the pattern issue and make it the full size. Along with maybe having a frame painter. 
+   - If I had the opportunity to change something about my project I would resolve the pattern issue and make it the full size. Along with maybe having a frame painter. Improved: To improve my code, I made the checkered flag full size and added a Frame painter. 
